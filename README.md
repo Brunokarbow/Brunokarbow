@@ -1,7 +1,7 @@
 ### Saudações 🖐 eu sou o Bruno Januario !
 
 <p align="center"> -🔭 Estudante de  Ciência da Computação </p>
-<p align="center"> Futuro Programador🙏 | Áreas preferida Desenvolvimento Web👩‍💻 </p>
+<p align="center"> Futuro Programador🙏 | Área preferida Desenvolvimento Web👩‍💻 </p>
 <br>
 
   <div align="center">
