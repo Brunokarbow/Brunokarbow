@@ -10,7 +10,7 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunokarbow&theme=dark&hide_border=false&&layout=compact" style="max-width: 40%;"/>
   </a>
 </div>
-
+ 
 <div align="center">
   <a href="https://www.instagram.com/brjanuario/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-januario-548619203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
