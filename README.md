@@ -4,12 +4,7 @@
 <p align="center"> Futuro Programador🙏 | Área preferida Desenvolvimento Web👩‍💻 </p>
 <br>
 
-  <div align="center">
-  <a href="https://github.com/Mathgardino">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Brunokarbow&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true" style="max-width: 40%;"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunokarbow&theme=dark&hide_border=false&&layout=compact" style="max-width: 40%;"/>
-  </a>
-</div>
+  
  
 <div align="center">
   <a href="https://www.instagram.com/brjanuario/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
